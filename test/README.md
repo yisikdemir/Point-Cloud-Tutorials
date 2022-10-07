@@ -1,1 +1,0 @@
-robot collect point cloud
